@@ -1,6 +1,6 @@
 # geodatos
 Geodatos para Bolivia
 
-- Mapa base
+- Límites departamentales (formato JSON)
 - Límite nacional (formato GeoJSON)
 - Límite nacional (formato ESRI shape), comprimido
