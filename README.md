@@ -1,5 +1,5 @@
 # geodatos
-Geodatos para Bolivia
+Geodatos de uso común para Bolivia, compartidos para facilitar su descarga o acceso remoto.
 
 **Límites administrativos**
 - [Límite nacional (formato GeoJSON)](bo_limite_nacional_b.geojson)
