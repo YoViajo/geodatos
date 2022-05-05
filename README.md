@@ -1,6 +1,8 @@
 # geodatos
 Geodatos para Bolivia
 
-- Límites departamentales (formato JSON)
-- Límite nacional (formato GeoJSON)
-- Límite nacional (formato ESRI shape), comprimido
+**Límites administrativos**
+- [Límite nacional (formato GeoJSON)](bo_limite_nacional_b.geojson)
+- [Límite nacional (formato ESRI shape, comprimido)](limite_nacional.zip)
+- [Límites departamentales (formato JSON)](bo_lim_dpto.json)
+- [Límites de municipios (339 municipios, formato GeoJSON, comprimido)](municipios_339_pob2012_ed.geojson.tar.gz)
