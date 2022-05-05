@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bol_cuadro_delimitador",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "MINX": -69.64482652, "MINY": -22.90656838, "MAXX": -57.45443328, "MAXY": -9.669633, "CNTX": -63.5496299, "CNTY": -16.28810069, "AREA": 161.36344757466873, "PERIM": 50.854657239999987, "HEIGHT": 13.23693538, "WIDTH": 12.19039324 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -69.64482652, -22.90656838 ], [ -69.64482652, -9.669633 ], [ -57.45443328, -9.669633 ], [ -57.45443328, -22.90656838 ], [ -69.64482652, -22.90656838 ] ] ] ] } }
+]
+}
