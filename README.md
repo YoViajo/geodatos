@@ -12,6 +12,7 @@ Geodatos de uso común para Bolivia, compartidos para facilitar su descarga o ac
 **Hidrografía**
 - [Ríos escala 1:1M (formato GeoJSON)](bol_rios1m.geojson)
 - [Ríos escala 1:3M (formato GeoJSON)](bol_riv3m_lines.geojson)
+- [Ríos HydroRIVERS (formato GeoJSON, comprimido)](bol_hydrorivers_v10_sa.geojson.tar.gz)
 - [Lagos HydroLAKES (formato GeoJSON)](bol_HydroLAKES_polys_v10.geojson)
 - [Lagos escala 1:3M (formato GeoJSON)](bol_riv3m_polys.geojson)
 
