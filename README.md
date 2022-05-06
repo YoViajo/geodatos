@@ -13,5 +13,6 @@ Geodatos de uso común para Bolivia, compartidos para facilitar su descarga o ac
 - [Ríos escala 1:1M (formato GeoJSON)](bol_rios1m.geojson)
 - [Lagos HydroLAKES (formato GeoJSON)](bol_HydroLAKES_polys_v10.geojson)
 
-**Caminos**
+**Varios**
 - [Caminos (formato GeoJSON)](bol_caminos.geojson)
+- [Capitales departamentales](bol_capital_departamental.geojson)
