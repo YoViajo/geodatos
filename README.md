@@ -15,4 +15,4 @@ Geodatos de uso común para Bolivia, compartidos para facilitar su descarga o ac
 
 **Varios**
 - [Caminos (formato GeoJSON)](bol_caminos.geojson)
-- [Capitales departamentales](bol_capital_departamental.geojson)
+- [Capitales departamentales (formato GeoJSON)](bol_capital_departamental.geojson)
