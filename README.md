@@ -22,6 +22,6 @@ Geodatos de uso común para Bolivia, compartidos para facilitar su descarga o ac
 - [Capitales departamentales (formato GeoJSON)](bol_capital_departamental.geojson)
 
 **Municipio de Santa Cruz de la Sierra**
-- [Distritos municipales](scz_munic/scz_distritos_municipales.geojson)
-- [Unidades vecinales](scz_munic/scz_unidades_vecinales.geojson)
-- [Manzanas](scz_munic/scz_manzanas.geojson)
+- [Distritos municipales (formato GeoJSON)](scz_munic/scz_distritos_municipales.geojson)
+- [Unidades vecinales (formato GeoJSON)](scz_munic/scz_unidades_vecinales.geojson)
+- [Manzanas (formato GeoJSON)](scz_munic/scz_manzanas.geojson)
