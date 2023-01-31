@@ -1,4 +1,4 @@
-# geodatos
+# Geodatos Bolivia
 Geodatos de uso común para Bolivia, compartidos para facilitar su descarga o acceso remoto.
 
 Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS 84). 
