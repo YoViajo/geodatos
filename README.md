@@ -1,6 +1,8 @@
 # geodatos
 Geodatos de uso común para Bolivia, compartidos para facilitar su descarga o acceso remoto.
 
+Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS 84). 
+
 **Límites administrativos**
 - [Límite nacional (formato GeoJSON)](limites/bol_limite_nacional_b.geojson)
 - [Límite nacional (formato shape ESRI, comprimido)](limites/bol_limite_nacional.zip)
