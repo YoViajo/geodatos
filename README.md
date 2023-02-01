@@ -28,3 +28,4 @@ Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS
 - [Unidades vecinales (formato GeoJSON)](scz_munic/scz_unidades_vecinales.geojson)
 - [Manzanas (formato GeoJSON)](scz_munic/scz_manzanas.geojson)
 - [Centros de salud municipales (formato GeoJSON)](scz_munic/sms_centros_salud.geojson)
+- [Hospitales municipales (formato GeoJSON)](scz_munic/sms_hospitales.geojson)

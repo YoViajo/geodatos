@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "sms_hospitales",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "sigla": "HMVPM", "hosp_munic_may": "VILLA 1RO DE MAYO", "hosp_munic_prop": "Villa 1ro de Mayo", "coords": "-17.7996498,-63.11894", "lat": -17.7996498, "lon": -63.11894, "red_salud": "Este", "dist_mun": 7, "atencion_hrs": 24, "direccion": "7mo anillo entre Cumavi y Av. 3 pasos al frente. B/ Libertad Av.  La Tradicion A Una Cuadra De La Av. Libertadores" }, "geometry": { "type": "Point", "coordinates": [ -63.11894, -17.7996498 ] } },
+{ "type": "Feature", "properties": { "sigla": "HMP3K", "hosp_munic_may": "PLAN 3000", "hosp_munic_prop": "Plan 3000", "coords": "-17.8389157,-63.1103726", "lat": -17.8389157, "lon": -63.1103726, "red_salud": "Este", "dist_mun": 8, "atencion_hrs": 24, "direccion": "B/ Piraicito Av. Prefectural Diagonal Mercado Los Pocitos A 2 Cuadras De La Av. Paurito" }, "geometry": { "type": "Point", "coordinates": [ -63.1103726, -17.8389157 ] } },
+{ "type": "Feature", "properties": { "sigla": "HMF", "hosp_munic_may": "FRANCÉS", "hosp_munic_prop": "Francés", "coords": "-17.8551373,-63.1896206", "lat": -17.8551373, "lon": -63.1896206, "red_salud": "Sur", "dist_mun": 9, "atencion_hrs": 24, "direccion": "Av. Santos Dumont 6to anillo, B/Paititi C/1 entre C/Matico y C/1" }, "geometry": { "type": "Point", "coordinates": [ -63.1896206, -17.8551373 ] } },
+{ "type": "Feature", "properties": { "sigla": "HMBO", "hosp_munic_may": "BAJIO DEL ORIENTE", "hosp_munic_prop": "Bajío del Oriente", "coords": "-17.8317065,-63.2101721", "lat": -17.8317065, "lon": -63.2101721, "red_salud": "Sur", "dist_mun": 10, "atencion_hrs": 24, "direccion": "B/ Urb. Santa Cruz Av. Simon Bolivar Calle Eslovaquia A 2 Cuadras Del 6To Anillo." }, "geometry": { "type": "Point", "coordinates": [ -63.2101721, -17.8317065 ] } },
+{ "type": "Feature", "properties": { "sigla": "HMPI", "hosp_munic_may": "PAMPA DE LA ISLA", "hosp_munic_prop": "Pampa de la Isla", "coords": "-17.7590926,-63.1084301", "lat": -17.7590926, "lon": -63.1084301, "red_salud": "Norte", "dist_mun": 6, "atencion_hrs": 24, "direccion": "B/ Bolinter Av. Montecristo A 5 Cuadras De La Av. Los Chacos" }, "geometry": { "type": "Point", "coordinates": [ -63.1084301, -17.7590926 ] } }
+]
+}
