@@ -1,4 +1,4 @@
-# Geodatos Bolivia
+# GEODATOS BOLIVIA
 Geodatos de uso común para Bolivia, compartidos para facilitar su descarga o acceso remoto.
 
 Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS 84). 
@@ -27,5 +27,6 @@ Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS
 - [Distritos municipales (formato GeoJSON)](scz_munic/scz_distritos_municipales.geojson)
 - [Unidades vecinales (formato GeoJSON)](scz_munic/scz_unidades_vecinales.geojson)
 - [Manzanas (formato GeoJSON)](scz_munic/scz_manzanas.geojson)
+- [Lotes (formato GeoJSON comprimido)](scz_munic/scz_lotes.zip)
 - [Centros de salud municipales (formato GeoJSON)](scz_munic/sms_centros_salud.geojson)
 - [Hospitales municipales (formato GeoJSON)](scz_munic/sms_hospitales.geojson)
