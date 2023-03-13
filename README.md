@@ -30,3 +30,4 @@ Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS
 - [Lotes (formato GeoJSON comprimido)](scz_munic/scz_lotes.zip)
 - [Centros de salud municipales (formato GeoJSON)](scz_munic/sms_centros_salud.geojson)
 - [Hospitales municipales (formato GeoJSON)](scz_munic/sms_hospitales.geojson)
+- [Infraestructura educativa (formato GeoJSON)](scz_munic/scz_infraestructura_educativa.geojson)
