@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "scz_salones_velatorios",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "gid": 8, "uv": " ", "dm": 4, "mz": " ", "nombre": "SALON VELATORIO DM 8", "point_x": -63.174096560800002, "point_y": -17.816176236299999, "dependencia": "GAMSCS", "direccion": null }, "geometry": { "type": "Point", "coordinates": [ -63.174096560800002, -17.816176236299999 ] } },
+{ "type": "Feature", "properties": { "id": 2, "gid": 2, "uv": "151", "dm": 6, "mz": "EQ", "nombre": "SALON VELATORIO  DM 6", "point_x": -63.124095, "point_y": -17.757262, "dependencia": "GAMSCS", "direccion": null }, "geometry": { "type": "Point", "coordinates": [ -63.124095, -17.757262 ] } },
+{ "type": "Feature", "properties": { "id": 3, "gid": 1, "uv": "56", "dm": 1, "mz": "30", "nombre": "SALON VELATORIO  DM  1", "point_x": -63.2097, "point_y": -17.771738, "dependencia": "GAMSCS", "direccion": null }, "geometry": { "type": "Point", "coordinates": [ -63.2097, -17.771738 ] } },
+{ "type": "Feature", "properties": { "id": 4, "gid": 4, "uv": "177", "dm": 12, "mz": "EQ", "nombre": "SALON VELATORIO DM 12", "point_x": -63.167354, "point_y": -17.852023, "dependencia": "GAMSCS", "direccion": null }, "geometry": { "type": "Point", "coordinates": [ -63.167354, -17.852023 ] } },
+{ "type": "Feature", "properties": { "id": 5, "gid": 3, "uv": "115", "dm": 9, "mz": "67", "nombre": "SALON VELATORIO  DM 9", "point_x": -63.175227, "point_y": -17.844193, "dependencia": "GAMSCS", "direccion": null }, "geometry": { "type": "Point", "coordinates": [ -63.175227, -17.844193 ] } },
+{ "type": "Feature", "properties": { "id": 6, "gid": 6, "uv": "139", "dm": 10, "mz": "EQ", "nombre": "SALON VELATORIO DM 10", "point_x": -63.239886, "point_y": -17.828329, "dependencia": "GAMSCS", "direccion": null }, "geometry": { "type": "Point", "coordinates": [ -63.239886, -17.828329 ] } },
+{ "type": "Feature", "properties": { "id": 7, "gid": 5, "uv": "84", "dm": 7, "mz": "4", "nombre": "SALON VELATORIO DM 7", "point_x": -63.124089, "point_y": -17.787369, "dependencia": "GAMSCS", "direccion": null }, "geometry": { "type": "Point", "coordinates": [ -63.124089, -17.787369 ] } },
+{ "type": "Feature", "properties": { "id": 8, "gid": 7, "uv": " ", "dm": 14, "mz": "FRENTE A MZ 136", "nombre": "SALON VELATORIO DM 14", "point_x": -62.930485, "point_y": -17.885543, "dependencia": "GAMSCS", "direccion": null }, "geometry": { "type": "Point", "coordinates": [ -62.930485, -17.885543 ] } }
+]
+}
