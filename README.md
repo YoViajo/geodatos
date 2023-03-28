@@ -33,8 +33,16 @@ GENERAL
 - [Manzanas](scz_munic/scz_manzanas.geojson)
 - [Lotes (comprimido)](scz_munic/scz_lotes.zip)
 
+CENTRO DE ABASTECIMIENTO
+- [Mercados minoristas](scz_munic/scz_mercados_minoristas.geojson)
+
 CULTURA
 - [Bibliotecas y Centros culturales](scz_munic/scz_bibliotecas_centrosculturales.geojson)
+
+EDIFICIOS ADMINISTRATIVOS MUNICIPALES
+- [Edificios administrativos municipales](scz_munic/scz_edificios_administrativos_municipales.geojson)
+- [Secretarías municipales](scz_munic/scz_secretarias_municipales.geojson)
+- [Sub-alcaldías](scz_munic/scz_subalcaldias.geojson)
 
 EDUCACIÓN
 - [Módulos educativos - nivel inicial](scz_munic/scz_moduloseducativos_nivelinicial.geojson)
@@ -55,6 +63,10 @@ DEPORTE
 INFRAESTRUCTURA SOCIAL
 - [Guarderías municipales](scz_munic/scz_guarderias_municipales.geojson)
 - [Centros para el adulto mayor](scz_munic/scz_centros_adulto_mayor.geojson)
+
+SALÓN VELATORIO Y CEMENTERIO
+- [Cementerios distritales](scz_munic/scz_cementerios_distritales.geojson)
+- [Salones velatorios](scz_munic/scz_salones_velatorios.geojson)
 
 SALUD
 - [Centros de salud municipales ](scz_munic/sms_centros_salud.geojson)
