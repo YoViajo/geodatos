@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "scz_ambulancias_privadas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "gid": 5, "nombre": "BAG Emergencias médicas", "distrito": 7, "uv": 276, "mz": " ", "direccion": "Condominio Ciudad del Este, Mzno. 16 casa 2", "telefono": 73154544, "point_x": -63.08425617, "point_y": -17.799547948200001 }, "geometry": { "type": "Point", "coordinates": [ -63.08425617, -17.799547948200001 ] } },
+{ "type": "Feature", "properties": { "id": 2, "gid": 1, "nombre": "UMA Atencion Medica Prehospitalaria.", "distrito": 2, "uv": 43, "mz": " ", "direccion": "Av Virgen De Cotoca C / Jose M.Carrillo 3390 Esq. Juan Zarraga", "telefono": 3465619, "point_x": -63.150312400899999, "point_y": -17.782726181899999 }, "geometry": { "type": "Point", "coordinates": [ -63.150312400899999, -17.782726181899999 ] } },
+{ "type": "Feature", "properties": { "id": 3, "gid": 3, "nombre": "MIA  Servicio de Ambulancia y Medicina Ambulatoria", "distrito": 1, "uv": 113, "mz": "3", "direccion": "Av. Roca y Coronado No  1710 entre 4to y 5to anillo", "telefono": 33433411, "point_x": -63.220047899500003, "point_y": -17.786414579700001 }, "geometry": { "type": "Point", "coordinates": [ -63.220047899500003, -17.786414579700001 ] } },
+{ "type": "Feature", "properties": { "id": 4, "gid": 2, "nombre": "SAMED Servicio de traslados de pacientes Asistencia", "distrito": 2, "uv": 41, "mz": "56", "direccion": "Barrio la chacarilla, Calle Diego Guerra y Calle 6", "telefono": 72105000, "point_x": -63.149897972600002, "point_y": -17.773452066400001 }, "geometry": { "type": "Point", "coordinates": [ -63.149897972600002, -17.773452066400001 ] } },
+{ "type": "Feature", "properties": { "id": 5, "gid": 4, "nombre": "CIEM  Ambulancias las 24 Horas del día, Atención y de emergencias", "distrito": 1, "uv": 33, "mz": "11", "direccion": " Avenida Busch 940", "telefono": 60973691, "point_x": -63.196783098499999, "point_y": -17.772550127700001 }, "geometry": { "type": "Point", "coordinates": [ -63.196783098499999, -17.772550127700001 ] } },
+{ "type": "Feature", "properties": { "id": 6, "gid": 6, "nombre": "EMERCRUZ S.R.L.  Servicios de ambulancia y atención", "distrito": 1, "uv": 54, "mz": "10", "direccion": "Av. Roca y Coronado pasaje Usuri Nº 120 esq. sarany", "telefono": 3562256, "point_x": -63.208948212400003, "point_y": -17.787331364900002 }, "geometry": { "type": "Point", "coordinates": [ -63.208948212400003, -17.787331364900002 ] } }
+]
+}

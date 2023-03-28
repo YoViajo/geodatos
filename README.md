@@ -24,12 +24,38 @@ Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS
 - [Capitales departamentales ](bol_capital_departamental.geojson)
 
 **Municipio de Santa Cruz de la Sierra**
+GENERAL
 - [Límite de municipio](scz_munic/scz_limite_jurisdiccional.geojson)
 - [Área urbana](scz_munic/scz_area_urbana.geojson)
 - [Distritos municipales](scz_munic/scz_distritos_municipales.geojson)
 - [Unidades vecinales](scz_munic/scz_unidades_vecinales.geojson)
 - [Manzanas](scz_munic/scz_manzanas.geojson)
 - [Lotes (comprimido)](scz_munic/scz_lotes.zip)
+CULTURA
+- [Bibliotecas y Centros culturales](scz_munic/scz_bibliotecas_centrosculturales.geojson)
+EDUCACIÓN
+- [Módulos educativos - nivel inicial](scz_munic/scz_moduloseducativos_nivelinicial.geojson)
+- [Módulos educativos - nivel primaria](scz_munic/scz_moduloseducativos_nivelprimaria.geojson)
+- [Módulos educativos - nivel secundaria](scz_munic/scz_moduloseducativos_nivelsecundaria.geojson)
+- [Infraestructura educativa](scz_munic/scz_infraestructura_educativa.geojson)
+ESPARCIMIENTO
+- [Parques urbanos](scz_munic/scz_parques_urbanos.geojson)
+DEPORTE
+- [Canchas de fútbol](scz_munic/scz_canchas_futbol.geojson)
+- [Canchas polifuncionales](scz_munic/scz_canchas_polifuncionales.geojson)
+- [Coliseos](scz_munic/scz_coliseos.geojson)
+- [Mini-estadios](scz_munic/scz_mini_estadios.geojson)
+- [Pistas de atletismo](scz_munic/scz_pistas_atletismo.geojson)
+INFRAESTRUCTURA SOCIAL
+- [Guarderías municipales](scz_munic/scz_guarderias_municipales.geojson)
+- [Centros para el adulto mayor](scz_munic/scz_centros_adulto_mayor.geojson)
+SALUD
 - [Centros de salud municipales ](scz_munic/sms_centros_salud.geojson)
 - [Hospitales municipales](scz_munic/sms_hospitales.geojson)
-- [Infraestructura educativa](scz_munic/scz_infraestructura_educativa.geojson)
+  SALUD PRIVADA
+  - [Servicios privados de ambulancias](scz_munic/scz_ambulancias_privadas.geojson)
+  - [Clínicas privadas](scz_munic/scz_clinicas_privadas.geojson)
+  - [Laboratorios clínicos](scz_munic/scz_laboratorios_clinicos.geojson)
+SEGURIDAD CIUDADANA
+- [Centros de seguridad ciudadana ](scz_munic/scz_centros_seguridad_ciudadana.geojson)
+- [Estaciones policiales integrales ](scz_munic/scz_estaciones_policiales_integrales.geojson)

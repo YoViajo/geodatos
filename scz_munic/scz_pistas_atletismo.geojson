@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "scz_pistas_atletismo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 12, "distrito": 6, "distrito_m": null, "point_x": -63.106982028200001, "point_y": -17.743215860799999, "si": "SI", "no_": null, "nombre": "PISTA ATLÉTICA DM 6", "dependencia": "GAMSCS" }, "geometry": { "type": "Point", "coordinates": [ -63.106982028200001, -17.743215860799999 ] } },
+{ "type": "Feature", "properties": { "gid": 11, "distrito": 7, "distrito_m": null, "point_x": -63.121228336199998, "point_y": -17.7886762517, "si": "SI", "no_": null, "nombre": "PISTA ATLÉTICA DM 7", "dependencia": "GAMSCS" }, "geometry": { "type": "Point", "coordinates": [ -63.121228336199998, -17.7886762517 ] } },
+{ "type": "Feature", "properties": { "gid": 4, "distrito": 5, "distrito_m": null, "point_x": -63.171324604699997, "point_y": -17.726876860200001, "si": "SI", "no_": null, "nombre": "PISTA ATLÉTICA DM", "dependencia": "GAMSCS" }, "geometry": { "type": "Point", "coordinates": [ -63.171324604699997, -17.726876860200001 ] } },
+{ "type": "Feature", "properties": { "gid": 3, "distrito": 2, "distrito_m": null, "point_x": -63.174634513900003, "point_y": -17.767347556499999, "si": "SI", "no_": null, "nombre": "PISTA ATLÉTICA DM", "dependencia": "GAMSCS" }, "geometry": { "type": "Point", "coordinates": [ -63.174634513900003, -17.767347556499999 ] } },
+{ "type": "Feature", "properties": { "gid": 6, "distrito": 4, "distrito_m": null, "point_x": -63.187625253500002, "point_y": -17.818048070100001, "si": "SI", "no_": null, "nombre": "PISTA ATLÉTICA DM 4", "dependencia": "GAMSCS" }, "geometry": { "type": "Point", "coordinates": [ -63.187625253500002, -17.818048070100001 ] } },
+{ "type": "Feature", "properties": { "gid": 5, "distrito": 3, "distrito_m": null, "point_x": -63.152649211000004, "point_y": -17.8098425194, "si": "SI", "no_": null, "nombre": "PISTA ATLÉTICA DM", "dependencia": "GAMSCS" }, "geometry": { "type": "Point", "coordinates": [ -63.152649211, -17.8098425194 ] } },
+{ "type": "Feature", "properties": { "gid": 8, "distrito": 9, "distrito_m": null, "point_x": -63.173671794999997, "point_y": -17.8251886143, "si": "SI", "no_": null, "nombre": "PISTA ATLÉTICA DM 9", "dependencia": "GAMSCS" }, "geometry": { "type": "Point", "coordinates": [ -63.173671795, -17.8251886143 ] } },
+{ "type": "Feature", "properties": { "gid": 7, "distrito": 10, "distrito_m": null, "point_x": -63.224154169599998, "point_y": -17.843461972299998, "si": "SI", "no_": null, "nombre": "PISTA ATLÉTICA DM 10", "dependencia": "GAMSCS" }, "geometry": { "type": "Point", "coordinates": [ -63.224154169599998, -17.843461972299998 ] } },
+{ "type": "Feature", "properties": { "gid": 10, "distrito": 8, "distrito_m": null, "point_x": -63.1248303064, "point_y": -17.840835883, "si": "SI", "no_": null, "nombre": "PISTA ATLÉTICA DM 8", "dependencia": "GAMSCS" }, "geometry": { "type": "Point", "coordinates": [ -63.1248303064, -17.840835883 ] } },
+{ "type": "Feature", "properties": { "gid": 9, "distrito": 12, "distrito_m": null, "point_x": -63.166830085699999, "point_y": -17.8542617339, "si": "SI", "no_": null, "nombre": "PISTA ATLÉTICA DM 12", "dependencia": "GAMSCS" }, "geometry": { "type": "Point", "coordinates": [ -63.166830085699999, -17.8542617339 ] } },
+{ "type": "Feature", "properties": { "gid": 1, "distrito": 1, "distrito_m": null, "point_x": -63.211694508299999, "point_y": -17.781746361300002, "si": "SI", "no_": null, "nombre": "PISTA ATLÉTICA DM", "dependencia": "GAMSCS" }, "geometry": { "type": "Point", "coordinates": [ -63.211694508299999, -17.781746361300002 ] } }
+]
+}
