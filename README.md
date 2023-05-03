@@ -5,7 +5,7 @@ Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS
 
 **Límites administrativos**
 - [Límite nacional](limites/bol_limite_nacional_b.geojson)
-- [Límite nacional(formato TopoJSON)](limites/bol_limite_nacional_b.topojson)
+- [Límite nacional (formato TopoJSON)](limites/bol_limite_nacional_b.topojson)
 - [Límite nacional (formato shape ESRI, comprimido)](limites/bol_limite_nacional.zip)
 - [Límites departamentales ](limites/bol_lim_dpto.json)
 - [Límites de municipios (339 municipios, comprimido)](limites/bol_municipios_339_pob2012_ed.geojson.tar.gz)
