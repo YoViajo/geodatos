@@ -29,6 +29,7 @@ Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS
 GENERAL
 - [Límite de municipio](scz_munic/scz_limite_jurisdiccional.geojson)
 - [Área urbana](scz_munic/scz_area_urbana.geojson)
+- [Distritos municipales (Sec. Planif.)](scz_munic/scz_distritos_municipales_planif.geojson)
 - [Distritos municipales](scz_munic/scz_distritos_municipales.geojson)
 - [Unidades vecinales](scz_munic/scz_unidades_vecinales.geojson)
 - [Manzanas](scz_munic/scz_manzanas.geojson)
