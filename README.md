@@ -72,6 +72,7 @@ SALÓN VELATORIO Y CEMENTERIO
 SALUD
 - [Centros de salud municipales ](scz_munic/sms_centros_salud.geojson)
 - [Hospitales municipales](scz_munic/sms_hospitales.geojson)
+- [Redes de salud municipales](scz_munic/sms_redes_salud_limites_planif.geojson)
 
   SALUD PRIVADA
   - [Servicios privados de ambulancias](scz_munic/scz_ambulancias_privadas.geojson)
