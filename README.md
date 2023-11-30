@@ -24,6 +24,7 @@ Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS
 - [Centros poblados (año 2012)](bol_centros_poblados_2012.geojson)
 - [Capitales departamentales ](bol_capital_departamental.geojson)
 
+---
 **Municipio de Santa Cruz de la Sierra**
 
 GENERAL
