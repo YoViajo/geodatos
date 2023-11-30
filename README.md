@@ -25,7 +25,7 @@ Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS
 - [Capitales departamentales ](bol_capital_departamental.geojson)
 
 ---
-**Municipio de Santa Cruz de la Sierra**
+**MUNICIPIO DE SANTA CRUZ DE LA SIERRA**
 
 GENERAL
 - [Límite de municipio](scz_munic/scz_limite_jurisdiccional.geojson)
