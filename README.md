@@ -96,6 +96,7 @@ Repositorios de Mauricio Foronda ([mauforonda](https://github.com/mauforonda)):
 - [mauforonda/geodatos](https://github.com/mauforonda/geodatos) — monitoreo y archivo de datasets geoespaciales bolivianos publicados en portales geoserver (incluye respaldo de capas de GeoBolivia, ya que geo.gob.bo dejó de responder), independiente de este repositorio
 - [mauforonda/nightlights_bolivia](https://github.com/mauforonda/nightlights_bolivia) — series de luces nocturnas (VIIRS) por municipio
 - [mauforonda/ambiental](https://github.com/mauforonda/ambiental) — licencias ambientales y datos de deforestación
+- [mauforonda/atlasurbano](https://github.com/mauforonda/atlasurbano) — datos del Censo 2024 a nivel de manzano (geoparquet con polígonos, población, viviendas y fichas censales completas), descargados del geoportal oficial del INE
 - [microsoft/GlobalMLBuildingFootprints](https://github.com/microsoft/GlobalMLBuildingFootprints) — huellas de edificios detectadas por IA (incluye Bolivia)
 
 **Portales**
