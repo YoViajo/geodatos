@@ -91,7 +91,7 @@ SEGURIDAD CIUDADANA
 Otros repositorios y portales con geodatos de Bolivia, útiles cuando este repositorio no cubre lo necesario:
 
 **GitHub**
-- [mauforonda/geodatos](https://github.com/mauforonda/geodatos) — fuente original de varias de las capas vectoriales listadas arriba (censo 2012, hidrografía, cuencas, coca, cobertura vial, salud, educación)
+- [mauforonda/geodatos](https://github.com/mauforonda/geodatos) — otra colección de capas vectoriales de Bolivia (comunidades, cuencas, coca, cobertura vial, salud, educación), independiente de este repositorio
 - [mauforonda/nightlights_bolivia](https://github.com/mauforonda/nightlights_bolivia) — series de luces nocturnas (VIIRS) por municipio
 - [mauforonda/ambiental](https://github.com/mauforonda/ambiental) — licencias ambientales y datos de deforestación
 - [microsoft/GlobalMLBuildingFootprints](https://github.com/microsoft/GlobalMLBuildingFootprints) — huellas de edificios detectadas por IA (incluye Bolivia)
