@@ -104,3 +104,4 @@ Repositorios de Mauricio Foronda ([mauforonda](https://github.com/mauforonda)):
 - [Geofabrik — extractos OSM Bolivia](https://download.geofabrik.de/south-america/bolivia.html) — OpenStreetMap actualizado, shapefile y PBF
 - [Natural Earth](https://www.naturalearthdata.com/) — capas de referencia mundial (útil para contexto regional/continental)
 - [Centro Digital de Recursos Naturales de Bolivia (CDRN)](https://cdrnbolivia.com/index.htm) — geografía física, recursos hídricos, biológicos e infraestructura por departamento (UMSA / Texas A&M)
+- [Atlas Electoral (OEP)](https://atlaselectoral.oep.org.bo) — visor de resultados electorales 1979–2025. Expone una API pública sin autenticación (`/api/geoespacial/{id_sub_proceso}/{nivel}/{indice}`) con GeoJSON de departamentos, provincias, municipios y circunscripciones uninominales, cada geometría con su año de vigencia
