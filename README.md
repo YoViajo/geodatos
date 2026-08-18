@@ -84,3 +84,20 @@ SALUD
 SEGURIDAD CIUDADANA
 - [Centros de seguridad ciudadana ](scz_munic/scz_centros_seguridad_ciudadana.geojson)
 - [Estaciones policiales integrales ](scz_munic/scz_estaciones_policiales_integrales.geojson)
+
+---
+## Fuentes complementarias
+
+Otros repositorios y portales con geodatos de Bolivia, útiles cuando este repositorio no cubre lo necesario:
+
+**GitHub**
+- [mauforonda/geodatos](https://github.com/mauforonda/geodatos) — fuente original de varias de las capas vectoriales listadas arriba (censo 2012, hidrografía, cuencas, coca, cobertura vial, salud, educación)
+- [mauforonda/nightlights_bolivia](https://github.com/mauforonda/nightlights_bolivia) — series de luces nocturnas (VIIRS) por municipio
+- [mauforonda/ambiental](https://github.com/mauforonda/ambiental) — licencias ambientales y datos de deforestación
+- [microsoft/GlobalMLBuildingFootprints](https://github.com/microsoft/GlobalMLBuildingFootprints) — huellas de edificios detectadas por IA (incluye Bolivia)
+
+**Portales**
+- [GeoBolivia](https://geo.gob.bo/) — Infraestructura de Datos Espaciales oficial (IGM), cientos de capas por institución
+- [Humanitarian Data Exchange — Bolivia](https://data.humdata.org/group/bol) — población (WorldPop, Meta HRSL), pobreza, salud, indicadores de desarrollo
+- [Geofabrik — extractos OSM Bolivia](https://download.geofabrik.de/south-america/bolivia.html) — OpenStreetMap actualizado, shapefile y PBF
+- [Natural Earth](https://www.naturalearthdata.com/) — capas de referencia mundial (útil para contexto regional/continental)
