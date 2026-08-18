@@ -101,3 +101,4 @@ Otros repositorios y portales con geodatos de Bolivia, útiles cuando este repos
 - [Humanitarian Data Exchange — Bolivia](https://data.humdata.org/group/bol) — población (WorldPop, Meta HRSL), pobreza, salud, indicadores de desarrollo
 - [Geofabrik — extractos OSM Bolivia](https://download.geofabrik.de/south-america/bolivia.html) — OpenStreetMap actualizado, shapefile y PBF
 - [Natural Earth](https://www.naturalearthdata.com/) — capas de referencia mundial (útil para contexto regional/continental)
+- [Centro Digital de Recursos Naturales de Bolivia (CDRN)](https://cdrnbolivia.com/index.htm) — geografía física, recursos hídricos, biológicos e infraestructura por departamento (UMSA / Texas A&M)
