@@ -54,90 +54,90 @@ Fuente: [ABC](https://transitabilidad.abc.gob.bo), oct. 2026
 <details>
 <summary><b>General</b> (7 capas)</summary>
 
-- [Límite de municipio](scz_munic/scz_limite_jurisdiccional.geojson)
-- [Área urbana](scz_munic/scz_area_urbana.geojson)
-- [Distritos municipales (Sec. Planif.)](scz_munic/scz_distritos_municipales_planif.geojson)
-- [Distritos municipales](scz_munic/scz_distritos_municipales.geojson)
-- [Unidades vecinales](scz_munic/scz_unidades_vecinales.geojson)
-- [Manzanas](scz_munic/scz_manzanas.geojson)
-- [Lotes (comprimido)](scz_munic/scz_lotes.zip)
+- [Límite de municipio](gsc/scz_limite_jurisdiccional.geojson)
+- [Área urbana](gsc/scz_area_urbana.geojson)
+- [Distritos municipales (Sec. Planif.)](gsc/scz_distritos_municipales_planif.geojson)
+- [Distritos municipales](gsc/scz_distritos_municipales.geojson)
+- [Unidades vecinales](gsc/scz_unidades_vecinales.geojson)
+- [Manzanas](gsc/scz_manzanas.geojson)
+- [Lotes (comprimido)](gsc/scz_lotes.zip)
 </details>
 
 <details>
 <summary><b>Centros de abastecimiento</b> (1 capa)</summary>
 
-- [Mercados minoristas](scz_munic/scz_mercados_minoristas.geojson)
+- [Mercados minoristas](gsc/scz_mercados_minoristas.geojson)
 </details>
 
 <details>
 <summary><b>Cultura</b> (1 capa)</summary>
 
-- [Bibliotecas y Centros culturales](scz_munic/scz_bibliotecas_centrosculturales.geojson)
+- [Bibliotecas y Centros culturales](gsc/scz_bibliotecas_centrosculturales.geojson)
 </details>
 
 <details>
 <summary><b>Deporte</b> (5 capas)</summary>
 
-- [Canchas de fútbol](scz_munic/scz_canchas_futbol.geojson)
-- [Canchas polifuncionales](scz_munic/scz_canchas_polifuncionales.geojson)
-- [Coliseos](scz_munic/scz_coliseos.geojson)
-- [Mini-estadios](scz_munic/scz_mini_estadios.geojson)
-- [Pistas de atletismo](scz_munic/scz_pistas_atletismo.geojson)
+- [Canchas de fútbol](gsc/scz_canchas_futbol.geojson)
+- [Canchas polifuncionales](gsc/scz_canchas_polifuncionales.geojson)
+- [Coliseos](gsc/scz_coliseos.geojson)
+- [Mini-estadios](gsc/scz_mini_estadios.geojson)
+- [Pistas de atletismo](gsc/scz_pistas_atletismo.geojson)
 </details>
 
 <details>
 <summary><b>Edificios administrativos municipales</b> (3 capas)</summary>
 
-- [Edificios administrativos municipales](scz_munic/scz_edificios_administrativos_municipales.geojson)
-- [Secretarías municipales](scz_munic/scz_secretarias_municipales.geojson)
-- [Sub-alcaldías](scz_munic/scz_subalcaldias.geojson)
+- [Edificios administrativos municipales](gsc/scz_edificios_administrativos_municipales.geojson)
+- [Secretarías municipales](gsc/scz_secretarias_municipales.geojson)
+- [Sub-alcaldías](gsc/scz_subalcaldias.geojson)
 </details>
 
 <details>
 <summary><b>Educación</b> (4 capas)</summary>
 
-- [Módulos educativos - nivel inicial](scz_munic/scz_moduloseducativos_nivelinicial.geojson)
-- [Módulos educativos - nivel primaria](scz_munic/scz_moduloseducativos_nivelprimaria.geojson)
-- [Módulos educativos - nivel secundaria](scz_munic/scz_moduloseducativos_nivelsecundaria.geojson)
-- [Infraestructura educativa](scz_munic/scz_infraestructura_educativa.geojson)
+- [Módulos educativos - nivel inicial](gsc/scz_moduloseducativos_nivelinicial.geojson)
+- [Módulos educativos - nivel primaria](gsc/scz_moduloseducativos_nivelprimaria.geojson)
+- [Módulos educativos - nivel secundaria](gsc/scz_moduloseducativos_nivelsecundaria.geojson)
+- [Infraestructura educativa](gsc/scz_infraestructura_educativa.geojson)
 </details>
 
 <details>
 <summary><b>Esparcimiento</b> (1 capa)</summary>
 
-- [Parques urbanos](scz_munic/scz_parques_urbanos.geojson)
+- [Parques urbanos](gsc/scz_parques_urbanos.geojson)
 </details>
 
 <details>
 <summary><b>Infraestructura social</b> (2 capas)</summary>
 
-- [Guarderías municipales](scz_munic/scz_guarderias_municipales.geojson)
-- [Centros para el adulto mayor](scz_munic/scz_centros_adulto_mayor.geojson)
+- [Guarderías municipales](gsc/scz_guarderias_municipales.geojson)
+- [Centros para el adulto mayor](gsc/scz_centros_adulto_mayor.geojson)
 </details>
 
 <details>
 <summary><b>Salón velatorio y cementerio</b> (2 capas)</summary>
 
-- [Cementerios distritales](scz_munic/scz_cementerios_distritales.geojson)
-- [Salones velatorios](scz_munic/scz_salones_velatorios.geojson)
+- [Cementerios distritales](gsc/scz_cementerios_distritales.geojson)
+- [Salones velatorios](gsc/scz_salones_velatorios.geojson)
 </details>
 
 <details>
 <summary><b>Salud</b> (6 capas)</summary>
 
-- [Centros de salud municipales ](scz_munic/sms_centros_salud.geojson)
-- [Hospitales municipales](scz_munic/sms_hospitales.geojson)
-- [Redes de salud municipales](scz_munic/sms_redes_salud_limites_planif.geojson)
-- [Servicios privados de ambulancias](scz_munic/scz_ambulancias_privadas.geojson)
-- [Clínicas privadas](scz_munic/scz_clinicas_privadas.geojson)
-- [Laboratorios clínicos](scz_munic/scz_laboratorios_clinicos.geojson)
+- [Centros de salud municipales ](gsc/sms_centros_salud.geojson)
+- [Hospitales municipales](gsc/sms_hospitales.geojson)
+- [Redes de salud municipales](gsc/sms_redes_salud_limites_planif.geojson)
+- [Servicios privados de ambulancias](gsc/scz_ambulancias_privadas.geojson)
+- [Clínicas privadas](gsc/scz_clinicas_privadas.geojson)
+- [Laboratorios clínicos](gsc/scz_laboratorios_clinicos.geojson)
 </details>
 
 <details>
 <summary><b>Seguridad ciudadana</b> (2 capas)</summary>
 
-- [Centros de seguridad ciudadana ](scz_munic/scz_centros_seguridad_ciudadana.geojson)
-- [Estaciones policiales integrales ](scz_munic/scz_estaciones_policiales_integrales.geojson)
+- [Centros de seguridad ciudadana ](gsc/scz_centros_seguridad_ciudadana.geojson)
+- [Estaciones policiales integrales ](gsc/scz_estaciones_policiales_integrales.geojson)
 </details>
 
 ---
