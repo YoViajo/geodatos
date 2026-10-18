@@ -1,9 +1,13 @@
 # GEODATOS BOLIVIA
 Geodatos de uso común para Bolivia, compartidos para facilitar su descarga o acceso remoto.
 
-Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS 84) y formato GeoJSON (a menos que se indique algo diferente). 
+Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS 84) y formato GeoJSON (a menos que se indique algo diferente). Haga clic en cada sección para desplegarla.
 
-**Límites administrativos**
+## Bolivia
+
+<details>
+<summary><b>Límites administrativos</b> (7 capas)</summary>
+
 - [Límite nacional](limites/bol_limite_nacional_b.geojson)
 - [Límite nacional (formato TopoJSON)](limites/bol_limite_nacional_b.topojson)
 - [Límite nacional (formato shape ESRI, comprimido)](limites/bol_limite_nacional.zip)
@@ -11,32 +15,45 @@ Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS
 - [Límites de municipios (339 municipios, comprimido)](limites/bol_municipios_339_pob2012_ed.geojson.tar.gz)
 - [Límites de municipios (ABC, 2026)](limites/bol_abc_municipios.geojson)
 - [Cuadro (rectángulo) delimitador de país](limites/bol_cuadro_delimitador.geojson)
+</details>
 
+<details>
+<summary><b>Hidrografía</b> (5 capas)</summary>
 
-**Hidrografía**
 - [Ríos escala 1:1M](hidro/bol_rios1m.geojson)
 - [Ríos escala 1:3M](hidro/bol_riv3m_lines.geojson)
 - [Ríos HydroRIVERS (comprimido)](hidro/bol_hydrorivers_v10_sa.geojson.tar.gz)
 - [Lagos HydroLAKES](hidro/bol_HydroLAKES_polys_v10.geojson)
 - [Lagos escala 1:3M](hidro/bol_riv3m_polys.geojson)
+</details>
 
-**Vialidad** (fuente: [ABC](https://transitabilidad.abc.gob.bo), oct. 2026)
+<details>
+<summary><b>Vialidad</b> (6 capas)</summary>
+
+Fuente: [ABC](https://transitabilidad.abc.gob.bo), oct. 2026
 - [Red Vial Fundamental 2026](vialidad/bol_abc_red_vial_fundamental_2026.geojson)
 - [Carreteras pavimentadas](vialidad/bol_abc_carreteras_pavimentadas.geojson)
 - [Carreteras en construcción](vialidad/bol_abc_carreteras_pavimento_construccion.geojson)
 - [Carreteras de tierra o ripio](vialidad/bol_abc_carreteras_tierra_ripio.geojson)
 - [Estaciones de servicio](vialidad/bol_abc_estaciones_servicio_20261018.geojson)
 - [Retenes](vialidad/bol_abc_retenes_20261018.geojson)
+</details>
 
-**Varios**
+<details>
+<summary><b>Varios</b> (3 capas)</summary>
+
 - [Caminos](bol_caminos.geojson)
 - [Centros poblados (año 2012)](bol_centros_poblados_2012.geojson)
 - [Capitales departamentales ](bol_capital_departamental.geojson)
+</details>
 
----
-**MUNICIPIO DE SANTA CRUZ DE LA SIERRA**
+## Gran Santa Cruz
 
-GENERAL
+Área metropolitana de la ciudad de Santa Cruz de la Sierra: municipios de Santa Cruz de la Sierra, La Guardia, Cotoca, Porongo y Warnes. Las capas del GAMSC cubren el municipio de Santa Cruz de la Sierra.
+
+<details>
+<summary><b>General</b> (7 capas)</summary>
+
 - [Límite de municipio](scz_munic/scz_limite_jurisdiccional.geojson)
 - [Área urbana](scz_munic/scz_area_urbana.geojson)
 - [Distritos municipales (Sec. Planif.)](scz_munic/scz_distritos_municipales_planif.geojson)
@@ -44,58 +61,88 @@ GENERAL
 - [Unidades vecinales](scz_munic/scz_unidades_vecinales.geojson)
 - [Manzanas](scz_munic/scz_manzanas.geojson)
 - [Lotes (comprimido)](scz_munic/scz_lotes.zip)
+</details>
 
-CENTRO DE ABASTECIMIENTO
+<details>
+<summary><b>Centros de abastecimiento</b> (1 capa)</summary>
+
 - [Mercados minoristas](scz_munic/scz_mercados_minoristas.geojson)
+</details>
 
-CULTURA
+<details>
+<summary><b>Cultura</b> (1 capa)</summary>
+
 - [Bibliotecas y Centros culturales](scz_munic/scz_bibliotecas_centrosculturales.geojson)
+</details>
 
-EDIFICIOS ADMINISTRATIVOS MUNICIPALES
-- [Edificios administrativos municipales](scz_munic/scz_edificios_administrativos_municipales.geojson)
-- [Secretarías municipales](scz_munic/scz_secretarias_municipales.geojson)
-- [Sub-alcaldías](scz_munic/scz_subalcaldias.geojson)
+<details>
+<summary><b>Deporte</b> (5 capas)</summary>
 
-EDUCACIÓN
-- [Módulos educativos - nivel inicial](scz_munic/scz_moduloseducativos_nivelinicial.geojson)
-- [Módulos educativos - nivel primaria](scz_munic/scz_moduloseducativos_nivelprimaria.geojson)
-- [Módulos educativos - nivel secundaria](scz_munic/scz_moduloseducativos_nivelsecundaria.geojson)
-- [Infraestructura educativa](scz_munic/scz_infraestructura_educativa.geojson)
-
-ESPARCIMIENTO
-- [Parques urbanos](scz_munic/scz_parques_urbanos.geojson)
-
-DEPORTE
 - [Canchas de fútbol](scz_munic/scz_canchas_futbol.geojson)
 - [Canchas polifuncionales](scz_munic/scz_canchas_polifuncionales.geojson)
 - [Coliseos](scz_munic/scz_coliseos.geojson)
 - [Mini-estadios](scz_munic/scz_mini_estadios.geojson)
 - [Pistas de atletismo](scz_munic/scz_pistas_atletismo.geojson)
+</details>
 
-INFRAESTRUCTURA SOCIAL
+<details>
+<summary><b>Edificios administrativos municipales</b> (3 capas)</summary>
+
+- [Edificios administrativos municipales](scz_munic/scz_edificios_administrativos_municipales.geojson)
+- [Secretarías municipales](scz_munic/scz_secretarias_municipales.geojson)
+- [Sub-alcaldías](scz_munic/scz_subalcaldias.geojson)
+</details>
+
+<details>
+<summary><b>Educación</b> (4 capas)</summary>
+
+- [Módulos educativos - nivel inicial](scz_munic/scz_moduloseducativos_nivelinicial.geojson)
+- [Módulos educativos - nivel primaria](scz_munic/scz_moduloseducativos_nivelprimaria.geojson)
+- [Módulos educativos - nivel secundaria](scz_munic/scz_moduloseducativos_nivelsecundaria.geojson)
+- [Infraestructura educativa](scz_munic/scz_infraestructura_educativa.geojson)
+</details>
+
+<details>
+<summary><b>Esparcimiento</b> (1 capa)</summary>
+
+- [Parques urbanos](scz_munic/scz_parques_urbanos.geojson)
+</details>
+
+<details>
+<summary><b>Infraestructura social</b> (2 capas)</summary>
+
 - [Guarderías municipales](scz_munic/scz_guarderias_municipales.geojson)
 - [Centros para el adulto mayor](scz_munic/scz_centros_adulto_mayor.geojson)
+</details>
 
-SALÓN VELATORIO Y CEMENTERIO
+<details>
+<summary><b>Salón velatorio y cementerio</b> (2 capas)</summary>
+
 - [Cementerios distritales](scz_munic/scz_cementerios_distritales.geojson)
 - [Salones velatorios](scz_munic/scz_salones_velatorios.geojson)
+</details>
 
-SALUD
+<details>
+<summary><b>Salud</b> (6 capas)</summary>
+
 - [Centros de salud municipales ](scz_munic/sms_centros_salud.geojson)
 - [Hospitales municipales](scz_munic/sms_hospitales.geojson)
 - [Redes de salud municipales](scz_munic/sms_redes_salud_limites_planif.geojson)
+- [Servicios privados de ambulancias](scz_munic/scz_ambulancias_privadas.geojson)
+- [Clínicas privadas](scz_munic/scz_clinicas_privadas.geojson)
+- [Laboratorios clínicos](scz_munic/scz_laboratorios_clinicos.geojson)
+</details>
 
-  SALUD PRIVADA
-  - [Servicios privados de ambulancias](scz_munic/scz_ambulancias_privadas.geojson)
-  - [Clínicas privadas](scz_munic/scz_clinicas_privadas.geojson)
-  - [Laboratorios clínicos](scz_munic/scz_laboratorios_clinicos.geojson)
+<details>
+<summary><b>Seguridad ciudadana</b> (2 capas)</summary>
 
-SEGURIDAD CIUDADANA
 - [Centros de seguridad ciudadana ](scz_munic/scz_centros_seguridad_ciudadana.geojson)
 - [Estaciones policiales integrales ](scz_munic/scz_estaciones_policiales_integrales.geojson)
+</details>
 
 ---
-## Fuentes complementarias
+<details open>
+<summary><b>Fuentes complementarias</b></summary>
 
 Otros repositorios y portales con geodatos de Bolivia, útiles cuando este repositorio no cubre lo necesario:
 
@@ -114,3 +161,4 @@ Repositorios de Mauricio Foronda ([mauforonda](https://github.com/mauforonda)):
 - [Natural Earth](https://www.naturalearthdata.com/) — capas de referencia mundial (útil para contexto regional/continental)
 - [Centro Digital de Recursos Naturales de Bolivia (CDRN)](https://cdrnbolivia.com/index.htm) — geografía física, recursos hídricos, biológicos e infraestructura por departamento (UMSA / Texas A&M)
 - [Atlas Electoral (OEP)](https://atlaselectoral.oep.org.bo) — visor de resultados electorales 1979–2025. Expone una API pública sin autenticación (`/api/geoespacial/{id_sub_proceso}/{nivel}/{indice}`) con GeoJSON de departamentos, provincias, municipios y circunscripciones uninominales, cada geometría con su año de vigencia
+</details>
