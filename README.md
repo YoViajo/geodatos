@@ -78,7 +78,7 @@ Fuente: [ABC](https://transitabilidad.abc.gob.bo), oct. 2026
 Área metropolitana de la ciudad de Santa Cruz de la Sierra: municipios de Santa Cruz de la Sierra, La Guardia, Cotoca, Porongo y Warnes. Las capas del GAMSC cubren el municipio de Santa Cruz de la Sierra.
 
 <details>
-<summary><b>Territorio y población</b> (4 capas)</summary>
+<summary><b>Territorio y población</b> (3 capas)</summary>
 
 - [Límites municipales](gsc/gsc_limites_municipales.geojson)
 - [Grilla censal 2024, nivel 7](gsc/gsc_grilla_censal_cnpv2024_n7.geojson) (INE)
