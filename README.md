@@ -40,11 +40,37 @@ Fuente: [ABC](https://transitabilidad.abc.gob.bo), oct. 2026
 </details>
 
 <details>
-<summary><b>Varios</b> (3 capas)</summary>
+<summary><b>Población</b> (2)</summary>
+
+- [Grilla censal 2024, nivel 4](poblacion/bol_grilla_censal_cnpv2024_n4.geojson) (INE)
+- [Localidades](poblacion/bol_localidades.geojson) (datos oficiales vía Bits.bo)
+</details>
+
+<details>
+<summary><b>Salud</b> (1)</summary>
+
+- [Establecimientos de salud](salud/bol_establecimientos_salud.geojson) (UDAPE)
+</details>
+
+<details>
+<summary><b>Educación</b> (1)</summary>
+
+- [Unidades educativas](educacion/bol_unidades_educativas.geojson) (MINEDU)
+</details>
+
+<details>
+<summary><b>Energía</b> (1)</summary>
+
+- [Líneas de alta tensión](energia/bol_lineas_alta_tension.geojson) (UDAPE, 2026)
+</details>
+
+<details>
+<summary><b>Varios</b> (4 capas)</summary>
 
 - [Caminos](bol_caminos.geojson)
 - [Centros poblados (año 2012)](bol_centros_poblados_2012.geojson)
 - [Capitales departamentales ](bol_capital_departamental.geojson)
+- [Mercados](varios/bol_mercados.geojson) (datos oficiales vía Bits.bo)
 </details>
 
 ## Gran Santa Cruz
