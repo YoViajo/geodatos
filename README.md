@@ -9,6 +9,7 @@ Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS
 - [Límite nacional (formato shape ESRI, comprimido)](limites/bol_limite_nacional.zip)
 - [Límites departamentales ](limites/bol_lim_dpto.json)
 - [Límites de municipios (339 municipios, comprimido)](limites/bol_municipios_339_pob2012_ed.geojson.tar.gz)
+- [Límites de municipios ABC (346 polígonos, con código de unidad territorial, ley de creación y TIOC/AIOC; versión del servidor del 24-jun-2026)](limites/bol_abc_municipios.geojson) — fuente: ABC, ver sección Vialidad
 - [Cuadro (rectángulo) delimitador de país](limites/bol_cuadro_delimitador.geojson)
 
 
@@ -18,6 +19,18 @@ Todas las capas están en el sistema de coordenadas geográfico (EPSG:4326 - WGS
 - [Ríos HydroRIVERS (comprimido)](hidro/bol_hydrorivers_v10_sa.geojson.tar.gz)
 - [Lagos HydroLAKES](hidro/bol_HydroLAKES_polys_v10.geojson)
 - [Lagos escala 1:3M](hidro/bol_riv3m_polys.geojson)
+
+**Vialidad — ABC (Administradora Boliviana de Carreteras)**
+
+Fuente: [Sistema de Transitabilidad de la ABC](https://transitabilidad.abc.gob.bo), descargado el 18-oct-2026. Acceso público sin autenticación; el sitio no declara licencia. Citar como «Fuente: ABC – Administradora Boliviana de Carreteras». Entre paréntesis, la fecha de la versión según el servidor.
+- [Red Vial Fundamental 2026 (356 tramos; 19-ago-2026)](vialidad/bol_abc_red_vial_fundamental_2026.geojson)
+- [Carreteras pavimentadas (145 tramos; 8-oct-2025)](vialidad/bol_abc_carreteras_pavimentadas.geojson)
+- [Carreteras con pavimento en construcción (51 tramos; 8-oct-2025)](vialidad/bol_abc_carreteras_pavimento_construccion.geojson)
+- [Carreteras de tierra o ripio (48 tramos; 19-ago-2026)](vialidad/bol_abc_carreteras_tierra_ripio.geojson) — el visor de la ABC la enlaza con una dirección que no existe; el archivo real está en `/shapes/ripio.geojson`
+- [Estaciones de servicio (593 puntos; instantánea del 18-oct-2026)](vialidad/bol_abc_estaciones_servicio_20261018.geojson) — se descartaron 5 con coordenadas fuera de Bolivia
+- [Retenes (217 puntos; instantánea del 18-oct-2026)](vialidad/bol_abc_retenes_20261018.geojson) — se descartaron 40 sin coordenada o fuera de Bolivia
+
+Las estaciones y los retenes cambian con frecuencia; para la versión vigente, consultar `https://transitabilidad.abc.gob.bo/api/v1/serviceStations` y `/api/v1/retenes`.
 
 **Varios**
 - [Caminos](bol_caminos.geojson)
